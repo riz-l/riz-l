@@ -9,10 +9,10 @@ I'm a junior professional currently working in website and application developme
 # I'm currently work on...
 Professional and personal projects in ReactJS!
 
-## Professional
+# Professional
 A web-app portal with user login, cloudDB integration, APIs, and some other exciting stuff.
 
-## Personal
+# Personal
 A personal site as well as a demo web-store.
 
 # I'm looking for...
