@@ -1,4 +1,4 @@
-<img src="https://ibb.co/LgWgVXv" title="riz-l" alt="riz-l Profile banner" />
+<img src="https://user-images.githubusercontent.com/56162066/88739602-cf9d8b80-d132-11ea-9b16-60357f0c7744.png" title="riz-l" alt="riz-l Profile banner" />
 
 <!--
 **riz-l/riz-l** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
