@@ -4,7 +4,7 @@
 
 <!-- Profile bio -->
 # About me
-I'm a junior professional currently working in website and application development, and primarily work with ReactJS. I'm constantly looking to learn new skills, and would be more than happy to get my hands on any available projects!
+I'm a junior professional currently working in website and application development, and primarily working with ReactJS. I'm constantly looking to learn new skills, and would be more than happy to get my hands on any available projects!
 
 # I'm currently work on...
 Professional and personal projects in ReactJS!
