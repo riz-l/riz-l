@@ -4,30 +4,31 @@
 
 <!-- Profile bio -->
 # About me
-I'm a junior professional currently working in website and application development, and primarily working with ReactJS. I'm constantly looking to learn new skills, and would be more than happy to get my hands on any available projects!
+I'm a front-end developer, primarily working with React JS. I'm constantly looking to learn new skills, and would be more than happy to get my hands on any available projects!
 
-# I'm currently work on...
-Professional and personal projects in ReactJS!
+# I'm currently working on...
+Professional and personal projects in React JS!
 
 # Professional
-A web-app portal with user login, cloudDB integration, APIs, and some other exciting stuff.
+A web-app dashboard with user login, cloudDB integration, APIs, data rendering and some other exciting stuff.
 
 # Personal
-A personal site as well as a demo web-store.
+A personal portfolio site as well as a few demo items.
 
 # I'm looking for...
 Opportunities to get involved with projects where I can help (no matter how big or small!). I'm really trying to learn as much as I can, as well as I can, so I'd love to be involved wherever possible.
 
 # Skills
 <ul>
-  <li>ReactJS</li>
-  <li>HTMLM, CSS, JS</li>
+  <li>React JS</li>
+  <li>HTML, (S)CSS, JS</li>
   <li>XAML</li>
 </ul>
 
 # Other Skills and Qualifications
 <ul>
   <li>Basic Figma prototyping (I've just started learning this recently, but I'm excited to get better!)</li>
+  <li>Project Management through GitKraken and Jiraa (amongst a few others)
 </ul>
 
 <!--
